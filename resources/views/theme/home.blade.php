@@ -111,7 +111,7 @@
     <!-- Where to stay-->
     <section class="container mb-sm-5 mb-4 pb-lg-4">
         <div class="d-sm-flex align-items-center justify-content-between mb-4 pb-2">
-            <h2 class="h4 mb-sm-0 font-vazir">محل اقامت در برلین</h2><a class="btn btn-link fw-normal ms-sm-3 p-0"
+            <h2 class="h4 mb-sm-0 font-vazir">محل اقامت</h2><a class="btn btn-link fw-normal ms-sm-3 p-0"
                 href="">مشاهده همه<i class="fi-arrow-long-left ms-2"></i></a>
         </div>
         <div class="tns-carousel-wrapper tns-controls-outside-xxl tns-nav-outside">
