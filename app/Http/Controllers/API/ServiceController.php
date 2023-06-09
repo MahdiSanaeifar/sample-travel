@@ -7,6 +7,12 @@ use Illuminate\Http\Request;
 
 class ServiceController extends Controller
 {
+
+    /**
+     * @lrd:start
+     * Get available services
+     * @lrd:end
+     */
     public function index()
     {
         $services = [
